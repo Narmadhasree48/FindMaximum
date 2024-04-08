@@ -34,7 +34,7 @@ def max_marks(list1):
     return max_num
 ```
 ## Output:
-![alt text](<Screenshot 2024-03-23 151831-1.png>)
+![alt text](<Screenshot 2024-03-23 151831-3.png>)
 ![alt text](<Screenshot 2024-03-23 151914-2.png>)
 ![alt text](<Screenshot 2024-04-08 162201-1.png>)
 ## Result:
